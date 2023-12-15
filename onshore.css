@@ -413,15 +413,8 @@ footer{
 }
 
 @media only screen and (max-width: 800px){
-    .section1{
-      display: flex;
-      flex-direction: column;
-      /* background-image: url("sea.JPG.png");
-      background-size: cover; */
-  }
      ul{
         width: 100%;
-        display: flex;
      }
 
      .nav_div1{
