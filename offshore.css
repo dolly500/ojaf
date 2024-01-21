@@ -86,6 +86,10 @@ body {
     right: 20px;
 }
 #check {display: none;}
+
+.content, .ul2{
+    padding: 60px;
+}
 @media(max-width: 610px){
     .menu {
         flex-direction: column;
