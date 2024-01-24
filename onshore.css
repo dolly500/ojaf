@@ -146,6 +146,21 @@ footer p{
         font-size: 15px;
     }
 
+    .content_div2 img{
+        width: 70vw;
+        height: 30vh;
+    }
+
+    .section02 img{
+        width: 70vw !important;
+    }
+
+    .section06 img{
+        width: 70vw;
+        height: 40vh;
+    }
+}
+
 @media screen and (max-width: 768px) {
     .head{
         display: flex;
@@ -162,4 +177,4 @@ footer p{
     .side_1 .img_2{
         display: none;
     }
-}}
+}

@@ -161,4 +161,8 @@ footer p{
     .side_1 .img_2{
         display: none;
     }
+    .section06 img{
+        width: 75vw;
+        height: 50vh;
+    }
 }}
